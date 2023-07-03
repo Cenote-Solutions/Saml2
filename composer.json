@@ -11,7 +11,7 @@
     "require": {
         "php": "^7.2 || ^8.0",
         "ext-json": "*",
-        "socialiteproviders/manager": "~4.0",
+        "socialiteproviders/manager": "3.5",
         "dropbox/lightsaml": "^2.0"
     },
     "autoload": {
