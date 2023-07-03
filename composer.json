@@ -12,7 +12,7 @@
         "php": "^7.2 || ^8.0",
         "ext-json": "*",
         "socialiteproviders/manager": "3.5",
-        "dropbox/lightsaml": "^2.0"
+        "dropbox/lightsaml": "1.4.1"
     },
     "autoload": {
         "psr-4": {
